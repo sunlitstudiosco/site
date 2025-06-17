@@ -5,11 +5,7 @@ permalink: /services/
 cover: We sit at the intersection of crafting compelling messages and making sure they land in the inbox.
 ---
 
-## 
-
-# <h1 class="text-3xl font-bold mb-4 mt-6">
-
-</h1>## Here&nbsp;are&nbsp;the most popular services we provide:
+## Here are the most popular services we provide:
 
 ### Klaviyo Setup or Email/SMS Marketing Automations
 
